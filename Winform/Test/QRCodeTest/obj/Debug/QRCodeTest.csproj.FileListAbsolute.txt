@@ -1,0 +1,13 @@
+F:\dotnet\Winform\Test\QRCodeTest\bin\Debug\QRCodeTest.exe.config
+F:\dotnet\Winform\Test\QRCodeTest\bin\Debug\QRCodeTest.exe
+F:\dotnet\Winform\Test\QRCodeTest\bin\Debug\QRCodeTest.pdb
+F:\dotnet\Winform\Test\QRCodeTest\bin\Debug\QRCoder.dll
+F:\dotnet\Winform\Test\QRCodeTest\bin\Debug\System.Drawing.Common.dll
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.csprojAssemblyReference.cache
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.Form1.resources
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.Properties.Resources.resources
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.csproj.GenerateResource.cache
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.csproj.CoreCompileInputs.cache
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.csproj.CopyComplete
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.exe
+F:\dotnet\Winform\Test\QRCodeTest\obj\Debug\QRCodeTest.pdb

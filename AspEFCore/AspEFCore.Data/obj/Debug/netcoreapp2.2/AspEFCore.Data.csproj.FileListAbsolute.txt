@@ -1,0 +1,12 @@
+F:\dotnet\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp2.2\AspEFCore.Domain.dll
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.csprojAssemblyReference.cache
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.csproj.CoreCompileInputs.cache
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.AssemblyInfoInputs.cache
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.AssemblyInfo.cs
+F:\dotnet\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp2.2\AspEFCore.Data.deps.json
+F:\dotnet\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp2.2\AspEFCore.Data.dll
+F:\dotnet\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp2.2\AspEFCore.Data.pdb
+F:\dotnet\AspEFCore\AspEFCore.Data\bin\Debug\netcoreapp2.2\AspEFCore.Domain.pdb
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.csproj.CopyComplete
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.dll
+F:\dotnet\AspEFCore\AspEFCore.Data\obj\Debug\netcoreapp2.2\AspEFCore.Data.pdb

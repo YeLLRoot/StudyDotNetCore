@@ -1,0 +1,9 @@
+F:\dotnet\CoreDemo\CoreDemo.Models\bin\Debug\netcoreapp2.2\CoreDemo.Models.deps.json
+F:\dotnet\CoreDemo\CoreDemo.Models\bin\Debug\netcoreapp2.2\CoreDemo.Models.dll
+F:\dotnet\CoreDemo\CoreDemo.Models\bin\Debug\netcoreapp2.2\CoreDemo.Models.pdb
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.csprojAssemblyReference.cache
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.csproj.CoreCompileInputs.cache
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.AssemblyInfoInputs.cache
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.AssemblyInfo.cs
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.dll
+F:\dotnet\CoreDemo\CoreDemo.Models\obj\Debug\netcoreapp2.2\CoreDemo.Models.pdb

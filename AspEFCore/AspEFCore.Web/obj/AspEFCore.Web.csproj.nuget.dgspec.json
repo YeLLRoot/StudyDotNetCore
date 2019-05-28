@@ -1,0 +1,190 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\dotnet\\AspEFCore\\AspEFCore.Web\\AspEFCore.Web.csproj": {}
+  },
+  "projects": {
+    "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\AspEFCore.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\AspEFCore.Data.csproj",
+        "projectName": "AspEFCore.Data",
+        "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\AspEFCore.Data.csproj",
+        "packagesPath": "C:\\Users\\YLL\\.nuget\\packages\\",
+        "outputPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj": {
+                "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj",
+        "projectName": "AspEFCore.Domain",
+        "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj",
+        "packagesPath": "C:\\Users\\YLL\\.nuget\\packages\\",
+        "outputPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "F:\\dotnet\\AspEFCore\\AspEFCore.Web\\AspEFCore.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\dotnet\\AspEFCore\\AspEFCore.Web\\AspEFCore.Web.csproj",
+        "projectName": "AspEFCore.Web",
+        "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Web\\AspEFCore.Web.csproj",
+        "packagesPath": "C:\\Users\\YLL\\.nuget\\packages\\",
+        "outputPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\YLL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\AspEFCore.Data.csproj": {
+                "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Data\\AspEFCore.Data.csproj"
+              },
+              "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj": {
+                "projectPath": "F:\\dotnet\\AspEFCore\\AspEFCore.Domain\\AspEFCore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

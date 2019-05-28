@@ -1,0 +1,10 @@
+F:\dotnet\Winform\Test\ComboxTest\bin\Debug\ComboxTest.exe.config
+F:\dotnet\Winform\Test\ComboxTest\bin\Debug\ComboxTest.exe
+F:\dotnet\Winform\Test\ComboxTest\bin\Debug\ComboxTest.pdb
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.csprojAssemblyReference.cache
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.Form1.resources
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.Properties.Resources.resources
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.csproj.GenerateResource.cache
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.csproj.CoreCompileInputs.cache
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.exe
+F:\dotnet\Winform\Test\ComboxTest\obj\Debug\ComboxTest.pdb

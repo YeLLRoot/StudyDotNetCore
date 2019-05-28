@@ -1,0 +1,46 @@
+﻿@using CoreDemo.Models
+@model IEnumerable<UserInfo>
+@using Microsoft.Extensions.Options
+@using CoreDemo.Settings
+@*@{ 
+    var userList = ViewData["userList"] as IEnumerable<UserInfo>;
+}*@
+@inject IOptions<ConnectionOptions> Options;
+<div class="container">
+    <div class="row">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Age</th>
+                    <th scope="col">Sex</th>
+                    <th scope="col">操作</th>
+                    <th>@Options.Value.DefaultConnection</th>
+                </tr>
+            </thead>
+            <tbody>
+                @*@foreach (var item in userList)
+                {
+                    <tr>
+                        <th scope="row">@item.id</th>
+                        <td>@item.name</td>
+                        <td>@item.age</td>
+                        <td>@item.sex</td>
+
+                        <td>
+                            <a asp-controller="Home" asp-action="Edit" asp-route-userid="@item.id">Edit</a>
+                        </td>
+                    </tr>
+                }*@
+
+                @Html.DisplayForModel()
+            </tbody>
+        </table>
+        <a asp-action="Add" asp-route-id="@ViewBag.id">添加</a>
+        @* 复用组件测试 *@
+        @await Component.InvokeAsync("UserCount", 1)
+        @* 调用ViewComponent的另一种方式 *@
+        <vc:user-count user-id="2"></vc:user-count>
+    </div>
+</div>

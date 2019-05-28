@@ -1,0 +1,9 @@
+F:\dotnet\EFCore\EFCore.Models\bin\Debug\netcoreapp2.2\EFCore.Models.deps.json
+F:\dotnet\EFCore\EFCore.Models\bin\Debug\netcoreapp2.2\EFCore.Models.dll
+F:\dotnet\EFCore\EFCore.Models\bin\Debug\netcoreapp2.2\EFCore.Models.pdb
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.csprojAssemblyReference.cache
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.csproj.CoreCompileInputs.cache
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.AssemblyInfoInputs.cache
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.AssemblyInfo.cs
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.dll
+F:\dotnet\EFCore\EFCore.Models\obj\Debug\netcoreapp2.2\EFCore.Models.pdb

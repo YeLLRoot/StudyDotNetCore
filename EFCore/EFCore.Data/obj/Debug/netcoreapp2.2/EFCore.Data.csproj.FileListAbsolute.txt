@@ -1,0 +1,14 @@
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Data.deps.json
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Data.dll
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.csprojAssemblyReference.cache
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.csproj.CoreCompileInputs.cache
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.AssemblyInfoInputs.cache
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.AssemblyInfo.cs
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Models.dll
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Data.runtimeconfig.json
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Data.runtimeconfig.dev.json
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Data.pdb
+F:\dotnet\EFCore\EFCore.Data\bin\Debug\netcoreapp2.2\EFCore.Models.pdb
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.csproj.CopyComplete
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.dll
+F:\dotnet\EFCore\EFCore.Data\obj\Debug\netcoreapp2.2\EFCore.Data.pdb

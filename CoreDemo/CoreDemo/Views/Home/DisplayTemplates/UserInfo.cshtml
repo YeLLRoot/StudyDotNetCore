@@ -1,0 +1,12 @@
+﻿@model CoreDemo.Models.UserInfo
+
+<tr>
+    <th scope="row">@Model.id</th>
+    <td>@Model.name</td>
+    <td>@Model.age</td>
+    <td>@Model.sex</td>
+
+    <td>
+        <a asp-controller="Home" asp-action="Edit" asp-route-userid="@Model.id">Edit</a>
+    </td>
+</tr>
