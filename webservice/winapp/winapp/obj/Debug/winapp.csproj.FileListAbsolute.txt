@@ -1,0 +1,9 @@
+F:\dotnet\webservice\winapp\winapp\bin\Debug\winapp.exe.config
+F:\dotnet\webservice\winapp\winapp\bin\Debug\winapp.exe
+F:\dotnet\webservice\winapp\winapp\bin\Debug\winapp.pdb
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.csprojResolveAssemblyReference.cache
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.Form1.resources
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.Properties.Resources.resources
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.csproj.GenerateResource.Cache
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.exe
+F:\dotnet\webservice\winapp\winapp\obj\Debug\winapp.pdb

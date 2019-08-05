@@ -69,5 +69,18 @@ namespace CoreDemo.Controllers
             }
             return RedirectToAction("Index");
         }
+        public async Task<IActionResult> Delete(int userid)
+        {
+            if (ModelState.IsValid)
+            {
+                var exist = await _userService.GetByIdAsync(userid);
+                if (exist == null)
+                {
+                    return NotFound();
+                }
+                await _userService.DelAsync(exist);
+            }
+            return Redirect("Index");
+        }
     }
 }

@@ -11,5 +11,6 @@ namespace CoreDemo.Services
         Task<IEnumerable<UserInfo>> GetAllAsync();
         Task<UserInfo> GetByIdAsync(int id);
         Task AddAsync(UserInfo model);
+        Task<bool> DelAsync(UserInfo model);
     }
 }

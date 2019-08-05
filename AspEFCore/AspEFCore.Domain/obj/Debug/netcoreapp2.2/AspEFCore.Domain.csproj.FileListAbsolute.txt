@@ -1,9 +1,9 @@
 F:\dotnet\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.2\AspEFCore.Domain.deps.json
 F:\dotnet\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.2\AspEFCore.Domain.dll
 F:\dotnet\AspEFCore\AspEFCore.Domain\bin\Debug\netcoreapp2.2\AspEFCore.Domain.pdb
-F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.csprojAssemblyReference.cache
 F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.csproj.CoreCompileInputs.cache
 F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.AssemblyInfoInputs.cache
 F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.AssemblyInfo.cs
 F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.dll
 F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.pdb
+F:\dotnet\AspEFCore\AspEFCore.Domain\obj\Debug\netcoreapp2.2\AspEFCore.Domain.csprojAssemblyReference.cache

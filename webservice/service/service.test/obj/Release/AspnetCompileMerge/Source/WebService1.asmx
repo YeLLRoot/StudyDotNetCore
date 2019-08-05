@@ -1,0 +1,1 @@
+<%@ webservice class="service.test.WebService1"%>

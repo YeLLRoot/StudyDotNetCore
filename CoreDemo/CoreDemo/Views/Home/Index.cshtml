@@ -16,7 +16,7 @@
                     <th scope="col">Age</th>
                     <th scope="col">Sex</th>
                     <th scope="col">操作</th>
-                    <th>@Options.Value.DefaultConnection</th>
+                    @*<th>@Options.Value.DefaultConnection</th>*@
                 </tr>
             </thead>
             <tbody>
@@ -39,8 +39,8 @@
         </table>
         <a asp-action="Add" asp-route-id="@ViewBag.id">添加</a>
         @* 复用组件测试 *@
-        @await Component.InvokeAsync("UserCount", 1)
+        @*@await Component.InvokeAsync("UserCount", 1)*@
         @* 调用ViewComponent的另一种方式 *@
-        <vc:user-count user-id="2"></vc:user-count>
+        @*<vc:user-count user-id="2"></vc:user-count>*@
     </div>
 </div>
