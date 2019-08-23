@@ -37,6 +37,7 @@
             this.txtCity = new System.Windows.Forms.TextBox();
             this.btnSearch = new System.Windows.Forms.Button();
             this.txtWeather = new System.Windows.Forms.TextBox();
+            this.btnSync = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnData
@@ -116,11 +117,22 @@
             this.txtWeather.Size = new System.Drawing.Size(299, 167);
             this.txtWeather.TabIndex = 8;
             // 
+            // btnSync
+            // 
+            this.btnSync.Location = new System.Drawing.Point(624, 310);
+            this.btnSync.Name = "btnSync";
+            this.btnSync.Size = new System.Drawing.Size(75, 23);
+            this.btnSync.TabIndex = 9;
+            this.btnSync.Text = "同步";
+            this.btnSync.UseVisualStyleBackColor = true;
+            this.btnSync.Click += new System.EventHandler(this.btnSync_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(888, 391);
+            this.Controls.Add(this.btnSync);
             this.Controls.Add(this.txtWeather);
             this.Controls.Add(this.btnSearch);
             this.Controls.Add(this.txtCity);
@@ -148,6 +160,7 @@
         private System.Windows.Forms.TextBox txtCity;
         private System.Windows.Forms.Button btnSearch;
         private System.Windows.Forms.TextBox txtWeather;
+        private System.Windows.Forms.Button btnSync;
     }
 }
 

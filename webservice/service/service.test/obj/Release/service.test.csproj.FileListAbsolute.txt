@@ -54,3 +54,5 @@ F:\dotnet\webservice\service\service.test\obj\Release\service.test.csproj.CoreCo
 F:\dotnet\webservice\service\service.test\obj\Release\service.test.csproj.CopyComplete
 F:\dotnet\webservice\service\service.test\obj\Release\service.test.dll
 F:\dotnet\webservice\service\service.test\obj\Release\service.test.pdb
+F:\dotnet\webservice\service\service.test\bin\Newtonsoft.Json.dll
+F:\dotnet\webservice\service\service.test\bin\Newtonsoft.Json.xml

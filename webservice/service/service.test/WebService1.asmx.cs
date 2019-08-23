@@ -1,7 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Services;
 
 namespace service.test
@@ -23,9 +21,24 @@ namespace service.test
             return "Hello World";
         }
         [WebMethod]
-        public int Add(int a,int b)
+        public string GetData()
         {
-            return a + b;
+            List<User> list = new List<User>();
+            User user1 = new User()
+            {
+                UserID =1,
+                UserName = "Admin",
+                Age =18
+            };
+            User user2 = new User()
+            {
+                UserID = 2,
+                UserName = "Tom",
+                Age = 20
+            };
+            list.Add(user1);
+            list.Add(user2);
+            return JsonConvert.SerializeObject(list);
         }
     }
 }

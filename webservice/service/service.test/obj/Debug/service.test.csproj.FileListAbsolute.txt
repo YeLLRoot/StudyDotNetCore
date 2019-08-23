@@ -54,3 +54,5 @@ F:\dotnet\webservice\service\service.test\obj\Debug\service.test.csproj.CopyComp
 F:\dotnet\webservice\service\service.test\obj\Debug\service.test.dll
 F:\dotnet\webservice\service\service.test\obj\Debug\service.test.pdb
 F:\dotnet\webservice\service\service.test\obj\Debug\service.test.csprojAssemblyReference.cache
+F:\dotnet\webservice\service\service.test\bin\Newtonsoft.Json.dll
+F:\dotnet\webservice\service\service.test\bin\Newtonsoft.Json.xml
